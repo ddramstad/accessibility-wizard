@@ -11,7 +11,7 @@ git commit -m "Initial commit of Accessibility Wizard Pro"
 git branch -M main
 
 # 5) Add the remote (replace with your GitHub URL)
-git remote add origin git@github.com:YOUR_USERNAME/accessibility-wizard.git
+git remote add origin git@github.com:ddramstad/accessibility-wizard.git
 
 # 6) Push to GitHub
 git push -u origin main
